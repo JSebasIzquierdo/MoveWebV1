@@ -1,0 +1,29 @@
+[
+    {
+    "id_historial": 701, 
+    "nombrePaciente": "Ángela María Marín",
+    "fecha": "09/04/2020",
+    "informacionPaciente": "La futura esposa de Kevin",
+    "informacionSesion": "Hizo estiramientos para la columna",
+    "informacionPerfil": "Novato",
+    "observaciones": "Le ha metido mucha plata al jueguito."
+    },
+    {
+    "id_historial": 702, 
+    "nombrePaciente": "Kevin Stiwar Rondón",
+    "fecha": "19/12/2020",
+    "informacionPaciente": "El que se ha gastado mucha plata en jueguitos",
+    "informacionSesion": "Le sacaron el apéndice",
+    "informacionPerfil": "Novato",
+    "observaciones": "ninguna"
+    },
+    {
+    "id_historial": 703, 
+    "nombrePaciente": "Juan Sebastián Izquierdo",
+    "fecha": "18/06/2021",
+    "informacionPaciente": "Un crack total",
+    "informacionSesion": "Ninguna, que crack",
+    "informacionPerfil": "Profesional",
+    "observaciones": "ninguna"
+    }
+    ]

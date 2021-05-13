@@ -1,0 +1,26 @@
+[
+    {
+    "id_citas": 601, 
+    "nombrePaciente": "Ana María Martínez",
+    "motivo": "Tiene un dedo torcido y no sabe cómo arreglarlo",
+    "fechaAgendamiento": "09/04/2020",
+    "fechaCita": "12/04/2020",
+    "horaCita": "10:00 a.m."
+    },
+    {
+    "id_citas": 602, 
+    "nombrePaciente": "Kevin Stiwar Rondón",
+    "motivo": "Todo lo que se come le cae mal",
+    "fechaAgendamiento": "19/12/2020",
+    "fechaCita": "25/12/2020",
+    "horaCita": "10:00 a.m."
+    },
+    {
+    "id_citas": 603, 
+    "nombrePaciente": "Juan Sebastián Izquierdo",
+    "motivo": "Se va a morir soltero",
+    "fechaAgendamiento": "18/06/2021",
+    "fechaCita": "20/06/2021",
+    "horaCita": "10:00 a.m."
+    }
+    ]

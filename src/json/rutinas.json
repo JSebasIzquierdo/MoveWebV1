@@ -1,0 +1,17 @@
+[
+  {
+    "id_rutina": 401,
+    "nombre": "Rutina 1",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed elementum erat et porta euismod. Nulla augue orci, aliquet eu purus eu, placerat fermentum dui. Phasellus vitae egestas ante, id elementum turpis. Ut tristique, velit ut laoreet imperdiet, felis ante eleifend tortor, eget pharetra arcu lorem vitae tortor. Vivamus nisl est, rhoncus non finibus a, condimentum sed justo. Praesent rutrum turpis sed egestas tempus. Nulla pulvinar, metus sit amet maximus commodo, purus diam tristique metus, sed lacinia ex erat condimentum urna."
+  },
+  {
+    "id_rutina": 402,
+    "nombre": "Rutina 2",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed elementum erat et porta euismod. Nulla augue orci, aliquet eu purus eu, placerat fermentum dui. Phasellus vitae egestas ante, id elementum turpis. Ut tristique, velit ut laoreet imperdiet, felis ante eleifend tortor, eget pharetra arcu lorem vitae tortor. Vivamus nisl est, rhoncus non finibus a, condimentum sed justo. Praesent rutrum turpis sed egestas tempus. Nulla pulvinar, metus sit amet maximus commodo, purus diam tristique metus, sed lacinia ex erat condimentum urna."
+  },
+  {
+    "id_rutina": 403,
+    "nombre": "Rutina 3",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed elementum erat et porta euismod. Nulla augue orci, aliquet eu purus eu, placerat fermentum dui. Phasellus vitae egestas ante, id elementum turpis. Ut tristique, velit ut laoreet imperdiet, felis ante eleifend tortor, eget pharetra arcu lorem vitae tortor. Vivamus nisl est, rhoncus non finibus a, condimentum sed justo. Praesent rutrum turpis sed egestas tempus. Nulla pulvinar, metus sit amet maximus commodo, purus diam tristique metus, sed lacinia ex erat condimentum urna."
+  }
+]

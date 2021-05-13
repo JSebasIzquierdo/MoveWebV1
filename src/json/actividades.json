@@ -1,0 +1,22 @@
+[
+    {
+      "id_actividad": 501,
+      "nombre": "Baloncesto",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed elementum erat et porta euismod. Nulla augue orci, aliquet eu purus eu, placerat fermentum dui. Phasellus vitae egestas ante, id elementum turpis. Ut tristique, velit ut laoreet imperdiet, felis ante eleifend tortor, eget pharetra arcu lorem vitae tortor. Vivamus nisl est, rhoncus non finibus a, condimentum sed justo. Praesent rutrum turpis sed egestas tempus. Nulla pulvinar, metus sit amet maximus commodo, purus diam tristique metus, sed lacinia ex erat condimentum urna.",
+      "checked": true
+    },
+    {
+      "id_actividad": 502,
+      "nombre": "Triatlón",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed elementum erat et porta euismod. Nulla augue orci, aliquet eu purus eu, placerat fermentum dui. Phasellus vitae egestas ante, id elementum turpis. Ut tristique, velit ut laoreet imperdiet, felis ante eleifend tortor, eget pharetra arcu lorem vitae tortor. Vivamus nisl est, rhoncus non finibus a, condimentum sed justo. Praesent rutrum turpis sed egestas tempus. Nulla pulvinar, metus sit amet maximus commodo, purus diam tristique metus, sed lacinia ex erat condimentum urna.",
+      "checked": false
+    
+    },
+    {
+      "id_actividad": 503,
+      "nombre": "Fútbol Americano",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed elementum erat et porta euismod. Nulla augue orci, aliquet eu purus eu, placerat fermentum dui. Phasellus vitae egestas ante, id elementum turpis. Ut tristique, velit ut laoreet imperdiet, felis ante eleifend tortor, eget pharetra arcu lorem vitae tortor. Vivamus nisl est, rhoncus non finibus a, condimentum sed justo. Praesent rutrum turpis sed egestas tempus. Nulla pulvinar, metus sit amet maximus commodo, purus diam tristique metus, sed lacinia ex erat condimentum urna.",
+      "checked": true
+    
+    }
+  ]

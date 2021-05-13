@@ -1,0 +1,14 @@
+[
+{
+"id_rol": 1, 
+"nombre": "Fisioterapeuta"
+},
+{
+"id_rol": 2, 
+"nombre": "Paciente"
+},
+{
+"id_rol": 3, 
+"nombre": "Administrador"
+}
+]

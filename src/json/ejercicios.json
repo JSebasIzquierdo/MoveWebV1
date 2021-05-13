@@ -1,0 +1,51 @@
+[
+{
+"id_ejercicio": 221,
+"nombre_ejercicio": "Estiramiento",
+"descripcion_ejercicio": "En este ejercicio se van a estirar todos los músculos para que te vuelvas la persona más mamada del mundo.",
+"ruta_video_ejercicio": "C:/Users/Bill/SecretVideos/",
+"ruta_audio_ejercicio": "C:/Users/Bill/SecretAudios/",
+"alternancia_ejercicios": "15 veces, 4 repeticiones",
+"ruta_puntosensor_ejercicio": "C:/Users/Bill/SecretPuntos/",
+"tiempo_ruptura_audio_ejercicio": 15,
+"tiempo_ruptura_video_ejercicio": 15,
+"nombre_audio_ejercicio": "Audio Ejercicio 1",
+"nombre_video_ejercicio": "Video Ejercicio 1",
+"tiempo_ejercicio": 40,
+"repeticiones_ejercicio": 4,
+"tiempo_descanso_ejercicio": 15 
+},
+{
+"id_ejercicio": 222, 
+"nombre_ejercicio": "Flexiones",
+"descripcion_ejercicio": "Aquí sacas abdominales",
+"ruta_video_ejercicio": "C:/Users/Bill/SecretVideos/",
+"ruta_audio_ejercicio": "C:/Users/Bill/SecretAudios/",
+"alternancia_ejercicios": "10 veces, 2 repeticiones",
+"ruta_puntosensor_ejercicio": "C:/Users/Bill/SecretPuntos/",
+"tiempo_ruptura_audio_ejercicio": 10,
+"tiempo_ruptura_video_ejercicio": 10,
+"nombre_audio_ejercicio": "Audio Ejercicio 2",
+"nombre_video_ejercicio": "Video Ejercicio 2",
+"tiempo_ejercicio": 65,
+"repeticiones_ejercicio": 5,
+"tiempo_descanso_ejercicio": 20 
+},
+{
+    "id_ejercicio": 223, 
+"nombre_ejercicio": "Abdominales",
+"descripcion_ejercicio": "Para tener las chocolatinas y quitarte la ropa en Instagram",
+"ruta_video_ejercicio": "C:/Users/Bill/SecretVideos/",
+"ruta_audio_ejercicio": "C:/Users/Bill/SecretAudios/",
+"alternancia_ejercicios": "10 veces, 4 repeticiones",
+"ruta_puntosensor_ejercicio": "C:/Users/Bill/SecretPuntos/",
+"tiempo_ruptura_audio_ejercicio": 20,
+"tiempo_ruptura_video_ejercicio": 20,
+"nombre_audio_ejercicio": "Audio Ejercicio 3",
+"nombre_video_ejercicio": "Video Ejercicio 3",
+"tiempo_ejercicio": 120,
+"repeticiones_ejercicio": 4,
+"tiempo_descanso_ejercicio": 25 
+
+}
+]

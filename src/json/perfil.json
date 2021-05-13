@@ -1,0 +1,26 @@
+[
+  {
+    "id_perfil": 312,
+    "nombre": "Deportista - Principiante"
+  },
+  {
+    "id_perfil": 313,
+    "nombre": "Estándar - Avanzado"
+  },
+  {
+    "id_perfil": 314,
+    "nombre": "Deportista - Intermedio"
+  },
+  {
+    "id_perfil": 315,
+    "nombre": "Estándar - Principiante"
+  },
+  {
+    "id_perfil": 316,
+    "nombre": "Estándar - Primera Vez"
+  },
+  {
+    "id_perfil": 317,
+    "nombre": "Deportista - Avanzado"
+  }
+]

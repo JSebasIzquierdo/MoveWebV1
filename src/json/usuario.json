@@ -1,0 +1,26 @@
+[
+{
+"rol": "Administrador",
+"nombre_usuario": "Juan Sebastián",
+"apellido_usuario": "Izquierdo Henao",
+"id_usuario": 1115091294, 
+"ocupacion_usuario": "Estudiante",
+"numero_usuario": "3174268924",
+"fecha_nacimiento": "18/06/1998",
+"sexo_usuario": "Masculino",
+"correo_usuario": "jsebasizquierdo18@gmail.com"
+},
+
+{
+"rol": "Paciente",
+"nombre_usuario": "Kevin Stiwar",
+"apellido_usuario": "Rondón Muñoz",
+"id_usuario": 111111115, 
+"ocupacion_usuario": "Actor de telenovela",
+"numero_usuario": "3003548726",
+"fecha_nacimiento": "20/06/1998",
+"sexo_usuario": "Femenino",
+"correo_usuario": "kevin.rondon@uao.edu.co"
+}
+
+]
